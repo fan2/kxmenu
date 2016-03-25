@@ -24,4 +24,5 @@ project.xcworkspace
 tmp/*
 plan
 
-
+## ignore build products
+DerivedData/
