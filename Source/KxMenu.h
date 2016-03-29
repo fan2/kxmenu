@@ -50,6 +50,7 @@
 
 @end
 
+// 隐藏了具体的内部实现
 @interface KxMenu : NSObject
 
 + (void) showMenuInView:(UIView *)view
